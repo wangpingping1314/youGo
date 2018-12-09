@@ -44,7 +44,7 @@ export default {
   $uRed:#ff2d4a;
   .nav{
     background-color:$uRed;
-    padding: 20px 16px;
+    padding: 20rpx 16rpx;
     position: fixed;
     width: 100%;
     left: 0;
@@ -52,9 +52,9 @@ export default {
     box-sizing: border-box;
     input{
       background-color: white;
-      height: 60px;
+      height: 60rpx;
       text-align: center;
-      border-radius: 10px;
+      border-radius: 10rpx;
     }
     i.icon-sousuo{
       color: #bbb;
@@ -68,7 +68,7 @@ export default {
   }
   
   .index{
-    margin-top: 100px;
+    margin-top: 100rpx;
   }
   .swiper{
     image{
